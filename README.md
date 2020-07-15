@@ -1,10 +1,11 @@
-# Hello-world-
-Learning 
+# Hello everyone
 
-My name is Miguel, background as a medical doctor and health sciences researcher for almost 5 years. Currently I am a grad student at UBC in Vancouver, Canada. 
-Starting to work in-depth with bioinformatics. Biological background and experience in R / Bioinformatic analysis, currently improving my skills in the command line.  
+### _My personal repository_ 
+
+My name is Miguel Prieto, my background is in medicine (MD) and health sciences researcher (neglected diseases) for almost 5 years. Currently I am a grad student at UBC in Vancouver, Canada; here I work with cystic fibrosis.  
+Currently, I am starting to work in-depth with bioinformatics: I have some experience in R / Bioconductor, but I want to improve my skills as well as get familiar with the  command line.  
 
 
-Please find my CV attached to this page. 
+Please find my CV as a _.pdf_  
 
 ![](images/Flag_of_Colombia.png)
