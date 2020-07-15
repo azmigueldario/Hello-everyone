@@ -7,4 +7,4 @@ Starting to work in depth with bioinformatics. Biological background and some ex
 
 Please find my CV attached to this page. 
 
-![Image of Colombian flag](https://en.wikipedia.org/wiki/File:Flag_of_Colombia.svg)
+![Image of Colombian flag](https://wallpaperstock.net/colombia-flag-wallpapers_32965_1280x800.jpg)
